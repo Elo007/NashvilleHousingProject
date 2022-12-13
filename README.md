@@ -5,7 +5,7 @@
 SELECT * 
 FROM NashvilleHousing
 
-## Skills used 
+Skills used: Joins, CTEs, Temp Tables, Windows Functions, Aggregated Functions, Views, Converting Data Types, Case, Parsename, Substring, Charindex  
 
 ## Objective
 
